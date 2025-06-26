@@ -40,6 +40,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+    <img src="https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000" height="40" alt="mysql logo"  />
   <img src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" height="40" alt="powerbi logo"  />
   <img src="https://img.icons8.com/?size=100&id=UECmBSgBOvPT&format=png&color=000000" height="40" alt="excel logo"  />
 </div>
