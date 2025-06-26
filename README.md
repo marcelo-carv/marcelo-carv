@@ -15,6 +15,7 @@
       <li><strong>Bibliotecas para Análise de Dados:</strong> Pandas, NumPy</li>
       <li><strong>Visualização de Dados:</strong> Matplotlib, Seaborn</li>
     </ul>
+    <p></p>
   </li>
   <li><strong>Business Intelligence &amp; Visualização:</strong>
     <ul>
