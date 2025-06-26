@@ -46,8 +46,6 @@
 </div>
 
 
-<hr>
-
 <p>Fique à vontade para explorar meus projetos e dashboards nos repositórios abaixo. Seu feedback é muito bem-vindo! Conecte-se comigo no LinkedIn ou me chame para conversarmos sobre dados, tecnologia e as últimas tendências em BI.</p>
 
 <p>Meu LinkedIn: <a href="https://www.linkedin.com/in/marcelo-carvalho-b4977a342" target="_blank">aqui</a></p>
