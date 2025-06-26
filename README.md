@@ -10,6 +10,7 @@
 
 <ul>
   <li><strong>Linguagens de Programação:</strong> Python
+    <p></p>
     <ul>
       <li><strong>Bibliotecas para Análise de Dados:</strong> Pandas, NumPy</li>
       <li><strong>Visualização de Dados:</strong> Matplotlib, Seaborn</li>
