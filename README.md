@@ -32,8 +32,8 @@
     </ul>
   </li>
 </ul>
-<p></p>
-<p></p>
+<br>
+<br>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
@@ -45,7 +45,8 @@
   <img src="https://img.icons8.com/?size=100&id=UECmBSgBOvPT&format=png&color=000000" height="40" alt="excel logo"  />
 </div>
 
-
+<br>
+<br>
 <p>Fique à vontade para explorar meus projetos e dashboards nos repositórios abaixo. Seu feedback é muito bem-vindo! Conecte-se comigo no LinkedIn ou me chame para conversarmos sobre dados, tecnologia e as últimas tendências em BI.</p>
 
 <p>Meu LinkedIn: <a href="https://www.linkedin.com/in/marcelo-carvalho-b4977a342" target="_blank">aqui</a></p>
