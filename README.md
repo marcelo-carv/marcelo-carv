@@ -1,16 +1,32 @@
-<h2 align="center">Bem vindo ao meu GitHub!</h2>
+<h1 id="-bem-vindo-ao-meu-github-">👋 Bem-vindo ao meu GitHub!</h1>
 
-###
+<p>Olá! Eu sou o Marcelo e estou buscando uma oportunidade como <strong>Analista de Dados</strong>.</p>
 
-<p align="center">👋 Olá! Eu sou o Marcelo</p>
+<p>Sou apaixonado por transformar dados brutos em <strong>insights valiosos</strong> que impulsionam a tomada de decisões estratégicas. Minha jornada tem sido dedicada ao estudo e aplicação de ferramentas e técnicas de análise de dados, sempre com o foco em <strong>resolver problemas reais</strong> e gerar valor tangível através da informação.</p>
 
-###
+<hr>
 
-<p align="left">🎯 Buscando uma oportunidade como Analista de Dados<br><br>Sou apaixonado por transformar dados em insights valiosos para a tomada de decisão. Tenho me dedicado ao estudo e aplicação de ferramentas e técnicas de análise de dados, com foco em resolver problemas reais e gerar valor através da informação.</p>
+<h3 id="-tecnologias-e-ferramentas-que-utilizo-">🛠️ Tecnologias e Ferramentas que utilizo:</h3>
 
-###
-
-<p align="left">🛠️ Tecnologias e Ferramentas que utilizo:<br><br>Linguagens de Programação: Python<br>- Bibliotecas para Análise de Dados: Pandas, NumPy<br>- Visualização de Dados: Matplotlib, Seaborn, Power BI<br>- Banco de Dados: PostgreSQL<br>- Ferramentas de Escritório: Excel (avançado)</p>
+<ul>
+  <li><strong>Linguagens de Programação:</strong> Python
+    <ul>
+      <li><strong>Bibliotecas para Análise de Dados:</strong> Pandas, NumPy</li>
+      <li><strong>Visualização de Dados:</strong> Matplotlib, Seaborn</li>
+    </ul>
+  </li>
+  <li><strong>Business Intelligence &amp; Visualização:</strong>
+    <ul>
+      <li><strong>Power BI:</strong> Especialista na criação de <strong>dashboards dinâmicos e relatórios interativos</strong> que transformam dados complexos em histórias visuais claras e impactantes. Atuo desde a modelagem de dados e aplicação de DAX até a construção de visualizações intuitivas e publicações no serviço.</li>
+    </ul>
+  </li>
+  <li><strong>Ferramentas de Dados:</strong>
+    <ul>
+      <li><strong>Excel (Avançado):</strong> Proficiência em manipulação, limpeza e análise de grandes volumes de dados, utilizando funções avançadas, tabelas dinâmicas, macros e automação para otimizar processos e extrair informações cruciais.</li>
+      <li><strong>Banco de Dados:</strong> PostgreSQL, <strong>MySQL</strong></li>
+    </ul>
+  </li>
+</ul>
 
 ###
 
@@ -26,6 +42,8 @@
 
 ###
 
-<p align="left">Fique à vontade para explorar meus repositórios, dar feedback ou me chamar para conversar sobre dados!</p>
+<hr>
 
-###
+<p>Fique à vontade para explorar meus projetos e dashboards nos repositórios abaixo. Seu feedback é muito bem-vindo! Conecte-se comigo no LinkedIn ou me chame para conversarmos sobre dados, tecnologia e as últimas tendências em BI.</p>
+
+<hr>
