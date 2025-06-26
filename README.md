@@ -24,6 +24,7 @@
       <li><strong>Power BI:</strong> Especialista na criação de <strong>dashboards dinâmicos e relatórios interativos</strong> que transformam dados complexos em histórias visuais claras e impactantes. Atuo desde a modelagem de dados e aplicação de DAX até a construção de visualizações intuitivas e publicações no serviço.</li>
     </ul>
     <p></p>
+    <br>
   </li>
   <li><strong>Ferramentas de Dados:</strong>
     <ul>
@@ -31,6 +32,7 @@
       <li><strong>Excel (Avançado):</strong> Proficiência em manipulação, limpeza e análise de grandes volumes de dados, utilizando funções avançadas, tabelas dinâmicas, macros e automação para otimizar processos e extrair informações cruciais.</li>
       <li><strong>Banco de Dados:</strong> PostgreSQL, <strong>MySQL</strong></li>
     </ul>
+    <br>
   </li>
 </ul>
 <br>
