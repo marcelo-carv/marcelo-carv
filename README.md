@@ -18,6 +18,7 @@
     <p></p>
   </li>
   <li><strong>Business Intelligence &amp; Visualização:</strong>
+    <p></p>
     <ul>
       <li><strong>Power BI:</strong> Especialista na criação de <strong>dashboards dinâmicos e relatórios interativos</strong> que transformam dados complexos em histórias visuais claras e impactantes. Atuo desde a modelagem de dados e aplicação de DAX até a construção de visualizações intuitivas e publicações no serviço.</li>
     </ul>
