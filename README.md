@@ -16,6 +16,7 @@
       <li><strong>Visualização de Dados:</strong> Matplotlib, Seaborn</li>
     </ul>
     <p></p>
+    <br>
   </li>
   <li><strong>Business Intelligence &amp; Visualização:</strong>
     <p></p>
